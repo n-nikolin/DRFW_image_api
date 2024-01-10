@@ -1,7 +1,7 @@
 env/
 trash/
 __pycache__/
-migrations/
+# migrations/
 
 .pyc
 static/
