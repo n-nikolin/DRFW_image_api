@@ -1,0 +1,7 @@
+env/
+trash/
+__pycache__/
+migrations/
+
+.pyc
+static/
