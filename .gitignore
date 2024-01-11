@@ -2,6 +2,7 @@ env/
 trash/
 __pycache__/
 # migrations/
+user_images/
 
 .pyc
 static/
